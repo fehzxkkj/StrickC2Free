@@ -1,8 +1,6 @@
 # StrickC2 
 
-## by fehzxkkj
-
-by fehzxkkj
+## vps
 
 - apt upgrade 
 - apt update
